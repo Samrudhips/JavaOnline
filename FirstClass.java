@@ -6,7 +6,7 @@ class FirstClass {
       int a =sc.nextInt();//to take user input of integer type
       int b=sc.nextInt();
       int sum=a+b;
-      System.out.println(sum);
+      System.out.println(sum);//to print user input
     }
     
 }
